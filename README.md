@@ -1,6 +1,7 @@
-git-workshop-base
-=================
+git-workshop-barcamp-kiel-2012
+==============================
 
-Base repository for git workshops
+Willkommen zum Git/GitHub-Workshop auf dem Barcamp Kiel 2012
 
-Dies ist das Ausgangs-Repository für die (remote-)Tests von Git-Workshops.
+Fragen und Antworten
+--------------------
